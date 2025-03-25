@@ -15,7 +15,7 @@ The dataset contains:
   3. Meningiomas
   4. Glioma
 
-📍 Source: [Kaggle – Brain Cancer Data](https://www.kaggle.com/datasets/michaelchalamet/brain-cancer-data)
+Source: [Kaggle – Brain Cancer Data](https://www.kaggle.com/datasets/michaelchalamet/brain-cancer-data)
 
 ---
 
